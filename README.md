@@ -1,3 +1,7 @@
 # Sentiment-Analysis
-This is an on-going project. Will fully update this repository once the project is complete.
-The lstm_sentiment is the neural network that I built to determine whether the sentiment of a sentence is positive or negative. This is a recurrent neural network(RNN) which uses Long Short-Term Memory. The model has an embedding layer as well that uses Stanford's GloVe pre trained embedding weights.
+NLP Project.
+A notebook for the purpose of extraction of data and performing sentiment analysis of this data was made. The notebok uses Stanford's GloVe for word embedding and an lstm based RNN for sentiment classification.
+A detailed study of it's features is done in .
+A dashboard was made as a case study using data from social media platforms namely Twitter and Reddit. 
+A report was made for comparison of obtained results and further elucidation of case studies.
+
