@@ -4,7 +4,7 @@ This project uses **sentiment analysis** to classify text into two categories on
 
 1. ## Data collection for training and testing: 
 - For training and testing relevant machine learning and deep learning models, a [labelled dataset](https://www.kaggle.com/kazanova/sentiment140) was used. 
-- For analytics, data was collected from Twitter using **Twin** API.
+- For analytics, data was collected from Twitter using **Twint** API.
 - The data collected was converted into **word-embedding vectors** using [Stanford's GloVe](https://nlp.stanford.edu/projects/glove/) pre-trained embeddings.
 - Twint has a feature of geolocation but for more accurate results coordinates of districts of each state of india were entered to get desired tweets from across the country.
 2. ## Training Models:
